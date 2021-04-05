@@ -1,4 +1,3 @@
-##welcome to the GSON and OPENCSV
 //https://www.baeldung.com/java-file-directory-exists   -->Files.exists(path)
 //https://stackoverflow.com/questions/24709769/java-using-system-getpropertyuser-dir-to-get-the-home-directory#
 //https://www.tutorialspoint.com/java_nio/java_nio_path.htm#:~:text=Paths%20class%20get().,arguments%20passed%20contains%20illegal%20characters.
